@@ -7,18 +7,18 @@
 <div align="center">
   <br>
   <h3> UNET implemetation for image segmentation.</h3>
-  <h3> Name: Tushar Sarkar </h3>
-  <h3> Roll No: 1911050</h3>
-  <h3> Class : A4</h3>
-  <h3> Course : RDBMS</h3>
-  <h3> Faculty : Vaibhav Vasani</h3>
+
 </div>
 <div align="center">
 
 [![](https://img.shields.io/badge/Made_with-Python-blue?style=for-the-badge&logo=python)](https://www.djangoproject.com/ "Django")
 [![](https://img.shields.io/badge/Made_with-PyTorch-res?style=for-the-badge&logo=pytorch)](https://firebase.google.com/ "Firebase")
 
-
+  <h3> Name: Tushar Sarkar </h3>
+  <h3> Roll No: 1911050</h3>
+  <h3> Class : A4</h3>
+  <h3> Course : RDBMS</h3>
+  <h3> Faculty : Vaibhav Vasani</h3>
 
 </div>
 
