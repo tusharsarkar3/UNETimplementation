@@ -1,7 +1,7 @@
 <h1 align="center">UNET</h1>
  <p align="center">
    <img href="https://miro.medium.com/max/875/1*J3t2b65ufsl1x6caf6GiBA.png"
-         alt="hits">
+         >
 </p>
  
 <div align="center">
