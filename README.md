@@ -18,11 +18,11 @@ Clone the project -
 ```
   $ git clone https://github.com/tusharsarkar3/UNETimplementation.git
 ```
-  
- ``` 
+   
 Install all the reqirements -
 ```
   $ pip install -r requirements.txt
+ ```
 
 Download data -
 
