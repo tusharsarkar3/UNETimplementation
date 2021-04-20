@@ -11,3 +11,33 @@
 
 
 </div>
+
+### To run this project :
+
+Clone the project -
+```
+  $ git clone https://github.com/tusharsarkar3/UNETimplementation.git
+```
+  
+ ``` 
+Install all the reqirements -
+```
+  $ pip install -r requirements.txt
+
+Download data -
+
+``` 
+Download data from here - https://www.kaggle.com/dansbecker/cityscapes-image-pairs
+Unzip and put the directories in the main project directory
+```
+
+Start the project -
+
+ for linux/mac :
+```
+  $ python Unet.py
+```  
+ for windows :
+``` 
+  $ py Unet.py
+```
