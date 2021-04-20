@@ -5,8 +5,8 @@
 </div>
 <div align="center">
 
-[![](https://img.shields.io/badge/Made_with-Python-black?style=for-the-badge&logo=python)](https://www.djangoproject.com/ "Django")
-[![](https://img.shields.io/badge/Made_with-PyTorch-blue?style=for-the-badge&logo=pytorch)](https://firebase.google.com/ "Firebase")
+[![](https://img.shields.io/badge/Made_with-Python-blue?style=for-the-badge&logo=python)](https://www.djangoproject.com/ "Django")
+[![](https://img.shields.io/badge/Made_with-PyTorch-res?style=for-the-badge&logo=pytorch)](https://firebase.google.com/ "Firebase")
 
 
 
