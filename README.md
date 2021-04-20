@@ -1,6 +1,6 @@
 <h1 align="center">UNET</h1>
  <p align="center">
-   <img href="https://www.google.com/imgres?imgurl=https%3A%2F%2Fmiro.medium.com%2Fmax%2F2640%2F1*J3t2b65ufsl1x6caf6GiBA.png&imgrefurl=https%3A%2F%2Ftowardsdatascience.com%2Fpaper-summary-u-net-convolutional-networks-for-biomedical-image-segmentation-13f4851ccc5e&tbnid=-B8wT4vPT6YNOM&vet=12ahUKEwjb48qhq4zwAhWWVysKHSDcC_MQMygAegUIARC2AQ..i&docid=XFhtW8Yx1XgjSM&w=1320&h=806&q=unet%20paper&ved=2ahUKEwjb48qhq4zwAhWWVysKHSDcC_MQMygAegUIARC2AQ"
+   <img href="https://miro.medium.com/max/875/1*J3t2b65ufsl1x6caf6GiBA.png"
          alt="hits">
 </p>
  
