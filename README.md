@@ -7,6 +7,11 @@
 <div align="center">
   <br>
   <h3> UNET implemetation for image segmentation.</h3>
+  <h3> Name: Tushar Sarkar </h3>
+  <h3> Roll No: 1911050</h3>
+  <h3> Class : A4</h3>
+  <h3> Course : RDBMS</h3>
+  <h3> Faculty : Vaibhav Vasani</h3>
 </div>
 <div align="center">
 
